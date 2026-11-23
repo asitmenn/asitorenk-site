@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://asitorenk.com/sitemap.xml
